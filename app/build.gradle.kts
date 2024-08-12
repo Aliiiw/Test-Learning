@@ -61,7 +61,5 @@ dependencies {
     // Mockito for mocking
     testImplementation(libs.mockito.core)
     testImplementation(libs.mockito.kotlin)
-
-    // Robolectric for unit testing
-    testImplementation(libs.robolectric)
+    
 }
